@@ -1,0 +1,4 @@
+    # created by virtualenv automatically
+.terraform
+*.tfstate
+*.tfstate.backup
